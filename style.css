@@ -3,10 +3,9 @@ body {
 }
 
 .submit-area {
+    box-shadow: 5px 5px 20px lightgray;
     margin-top: 50px;
     padding: 40px;
-    border-radius: 10px;
-    box-shadow: 5px 5px 10px grey;
 }
 
 #transaction-area {
@@ -16,8 +15,8 @@ body {
 .status {
     margin: 0 20px;
     padding: 20px;
-    color: white;
     border-radius: 10px;
+    color: white;
 }
 
 .deposit {
